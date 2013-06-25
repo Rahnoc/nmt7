@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/3.7">
+  <id>tw.idv.exofact.nmt7.NMT7</id>
+  <versionNumber>1.0</versionNumber>
+  <filename>NMT7</filename>
+  <name>NMT7</name>
+  <initialWindow>
+    <title>NMT7</title>
+    <content>NMT7.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>true</maximizable>
+    <resizable>true</resizable>
+    <width>400</width>
+    <height>300</height>
+  </initialWindow>
+  <!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+</application>
